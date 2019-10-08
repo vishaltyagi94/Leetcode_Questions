@@ -1,2 +1,2 @@
-# Leetcode_Questions
+# Leetcode Questions
 Solved practice questions from Leetcode
