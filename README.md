@@ -1,2 +1,2 @@
 # Leetcode Questions
-Solved practice questions from Leetcode
+Practice questions from Leetcode organized by the level of difficulty at the website.
